@@ -1,6 +1,6 @@
 # Nativly
 
-Small and simple elixir application demonstrating the usage of [Nifs] from Elixir, containing the examples from thei ["Using C++ from elixir with nifs"](http://blog.techdominator.com/article/using-python-from-elixir.html) blog post.
+Small and simple elixir application demonstrating the usage of [Nifs] from Elixir, containing the examples from thei ["Using C++ from elixir with nifs"](http://blog.techdominator.com/article/using-cpp-elixir-nifs.html) blog post.
 
 ## Installation
 
